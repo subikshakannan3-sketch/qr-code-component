@@ -20,11 +20,9 @@ Through this project, I learned:
 * How to use CSS variables
 * Basic responsive design using media queries
 
-## Links
+# Links
+* Live Site URL: https://famous-cheesecake-1e14cb.netlify.app
+* GitHub Repository: https://github.com/subikshakannan3-sketch/qr-code-component
 
-* Live Site URL: 
-* Frontend Mentor Solution: 
-
-## Author
-
-* Frontend Mentor - Subiksha Kannan
+# Author
+* Frontend Mentor - @subikshakannan3-sketch
